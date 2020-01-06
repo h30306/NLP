@@ -1,5 +1,5 @@
 # NLP
-Text-mining and transformer-base model
+> Text-mining and transformer-base model
 * Text-mining
   * [Association Rule](https://github.com/h30306/NLP/blob/master/Association%20rule.ipynb)
   * [Wordnet](https://github.com/h30306/NLP/blob/master/Wordnet.ipynb)
