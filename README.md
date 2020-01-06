@@ -8,5 +8,5 @@
   * [Segmentation](https://github.com/h30306/NLP/blob/master/斷詞NLTK.ipynb)
   * [Word Frequency Mlxtend](https://github.com/h30306/NLP/blob/master/詞頻mlxtend.ipynb)
 * Trasformer-base model 
-  * [BERT and PCA for Clustering Articles](https://github.com/h30306/NLP/blob/master/text-visualization.ipynb)
+  * [BERT and PCA for Articles Clustering ](https://github.com/h30306/NLP/blob/master/text-visualization.ipynb)
   
